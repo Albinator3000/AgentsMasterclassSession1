@@ -1,7 +1,7 @@
 # 10-Minute Agentic App Hackathon
 
 ## Overview
-Build a functional agentic application in 10 minutes using the provided repo. Your app should demonstrate autonomous decision-making and multi-step task execution.
+Build a functional agentic application in 10 minutes using claude.ai. Your app should demonstrate autonomous decision-making and multi-step task execution.
 
 ## Challenge
 Create an agentic app that performs one of the following capabilities:
@@ -11,7 +11,7 @@ Create an agentic app that performs one of the following capabilities:
 - **Interactive Assistance** - Provide intelligent, context-aware help that adapts to user needs
 
 ## Requirements
-1. **Build** (7 minutes): Implement your agentic app using the repo
+1. **Build** (7 minutes): Implement your agentic app using claude.ai
 2. **Test** (2 minutes): Verify your app works end-to-end
 3. **Prepare** (1 minute): Get ready to present
 
